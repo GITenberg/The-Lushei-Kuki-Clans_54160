@@ -1,0 +1,30 @@
+_repo: The-Lushei-Kuki-Clans_54160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shakespear, John
+    aliases:
+    - Shakespear, Major
+    - Shakespear, J. (John)
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '47737'
+    url: http://www.gutenberg.org/2009/agents/47737
+description: ''
+gutenberg_issued: '2017-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54160'
+  lccn: '14000139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lushai (Asian people)'
+- !lcc 'DS'
+- !lcsh 'Kuki (Indic people)'
+- !lcsh 'Lushai language'
+- GITenberg
+title: The Lushei Kuki Clans
+url: http://www.gutenberg.org/ebooks/54160
